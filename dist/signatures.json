@@ -1,0 +1,1097 @@
+[
+  {
+      "hex signature": "00",
+      "offset": 0,
+      "extension": "picpifseaytr"
+  },
+  {
+      "hex signature": "00 00 00 0c 4a 58 4c 20 0d 0a 87 0a",
+      "offset": 0,
+      "extension": "jxl"
+  },
+  {
+      "hex signature": "00 00 00 3c 00 00 00 3f00 00 00 78 00 00 00 6d00 00 00 6c 00 00 00 20",
+      "offset": 0,
+      "extension": "xml"
+  },
+  {
+      "hex signature": "00 00 01 00",
+      "offset": 0,
+      "extension": "ico"
+  },
+  {
+      "hex signature": "00 00 01 b3",
+      "offset": 0,
+      "extension": "mpgmpeg"
+  },
+  {
+      "hex signature": "00 00 01 ba",
+      "offset": 0,
+      "extension": "m2pvobmpgmpeg"
+  },
+  {
+      "hex signature": "00 00 fe ff",
+      "offset": 0,
+      "extension": "txtothers"
+  },
+  {
+      "hex signature": "00 01 00 00",
+      "offset": 0
+  },
+  {
+      "hex signature": "00 01 00 00 00",
+      "offset": 0,
+      "extension": "ttfttedfont"
+  },
+  {
+      "hex signature": "00 01 42 44",
+      "offset": 0,
+      "extension": "dba"
+  },
+  {
+      "hex signature": "00 01 44 54",
+      "offset": 0,
+      "extension": "tda"
+  },
+  {
+      "hex signature": "00 3c 00 3f 00 78 00 6d00 6c 00 20",
+      "offset": 0,
+      "extension": "xml"
+  },
+  {
+      "hex signature": "00 61 73 6d",
+      "offset": 0,
+      "extension": "wasm"
+  },
+  {
+      "hex signature": "00 00 00 0c 6a 50 20 20 0d 0a 87 0a",
+      "offset": 0,
+      "extension": "jp2j2kjpfjpmjpg2j2cjpcjpxmj2"
+  },
+  {
+      "hex signature": "ff 4f ff 51",
+      "offset": 0,
+      "extension": "jp2j2kjpfjpmjpg2j2cjpcjpxmj2"
+  },
+  {
+      "hex signature": "04 22 4d 18",
+      "offset": 0,
+      "extension": "lz4"
+  },
+  {
+      "hex signature": "05 07 00 00 42 4f 42 4f05 07 00 00 00 00 00 0000 00 00 00 00 01",
+      "offset": 0,
+      "extension": "cwk"
+  },
+  {
+      "hex signature": "06 07 e1 00 42 4f 42 4f06 07 e1 00 00 00 00 0000 00 00 00 00 01",
+      "offset": 0,
+      "extension": "cwk"
+  },
+  {
+      "hex signature": "0a 0d 0d 0a",
+      "offset": 0,
+      "extension": "pcapng"
+  },
+  {
+      "hex signature": "0e fe ff",
+      "offset": 0,
+      "extension": "txtothers"
+  },
+  {
+      "hex signature": "1a 45 df a3",
+      "offset": 0,
+      "extension": "mkvmkamksmk3dwebm"
+  },
+  {
+      "hex signature": "1b 4c 75 61",
+      "offset": 0,
+      "extension": "luac"
+  },
+  {
+      "hex signature": "1f 8b",
+      "offset": 0,
+      "extension": "gztar.gz"
+  },
+  {
+      "hex signature": "1f 9d",
+      "offset": 0,
+      "extension": "ztar.z"
+  },
+  {
+      "hex signature": "1f a0",
+      "offset": 0,
+      "extension": "ztar.z"
+  },
+  {
+      "hex signature": "20 02 01 62 a0 1e ab 0702 00 00 00",
+      "offset": 0,
+      "extension": "tde"
+  },
+  {
+      "hex signature": "21 3c 61 72 63 68 3e 0a",
+      "offset": 0,
+      "extension": "deb"
+  },
+  {
+      "hex signature": "21 42 44 4e",
+      "offset": 0,
+      "extension": "pst"
+  },
+  {
+      "hex signature": "23 21",
+      "offset": 0
+  },
+  {
+      "hex signature": "23 25 4d 6f 64 75 6c 65",
+      "offset": 0
+  },
+  {
+      "hex signature": "24 53 44 49 30 30 30 31",
+      "offset": 0
+  },
+  {
+      "hex signature": "25 21 50 53",
+      "offset": 0,
+      "extension": "ps"
+  },
+  {
+      "hex signature": "25 50 44 46 2d",
+      "offset": 0,
+      "extension": "pdf"
+  },
+  {
+      "hex signature": "27 05 19 56",
+      "offset": 0
+  },
+  {
+      "hex signature": "28 b5 2f fd",
+      "offset": 0,
+      "extension": "zst"
+  },
+  {
+      "hex signature": "2a 2a 41 43 45 2a 2a",
+      "offset": 0,
+      "extension": "ace"
+  },
+  {
+      "hex signature": "2b 2f 76 382b 2f 76 392b 2f 76 2b2b 2f 76 2f",
+      "offset": 0
+  },
+  {
+      "hex signature": "2f 2a 20 58 50 4d 20 2a2f",
+      "offset": 0,
+      "extension": "xpm"
+  },
+  {
+      "hex signature": "30 26 b2 75 8e 66 cf 11a6 d9 00 aa 00 62 ce 6c",
+      "offset": 0,
+      "extension": "asfwmawmv"
+  },
+  {
+      "hex signature": "30 82",
+      "offset": 0,
+      "extension": "der"
+  },
+  {
+      "hex signature": "31 0a 30 30",
+      "offset": 0,
+      "extension": "srt"
+  },
+  {
+      "hex signature": "34 12 aa 55",
+      "offset": 0,
+      "extension": "vpk"
+  },
+  {
+      "hex signature": "37 48 03 02 00 00 00 0058 35 30 39 4b 45 59",
+      "offset": 0,
+      "extension": "kdb"
+  },
+  {
+      "hex signature": "37 7a bc af 27 1c",
+      "offset": 0,
+      "extension": "7z"
+  },
+  {
+      "hex signature": "38 42 50 53",
+      "offset": 0,
+      "extension": "psd"
+  },
+  {
+      "hex signature": "3a 29 0a",
+      "offset": 0,
+      "extension": "sml"
+  },
+  {
+      "hex signature": "3c 00 00 00 3f 00 00 0078 00 00 00 6d 00 00 006c 00 00 00 20 00 00 00",
+      "offset": 0,
+      "extension": "xml"
+  },
+  {
+      "hex signature": "3c 00 3f 00 78 00 6d 006c 00 20",
+      "offset": 0,
+      "extension": "xml"
+  },
+  {
+      "hex signature": "3c 3c 3c 20 4f 72 61 636c 65 20 56 4d 20 56 6972 74 75 61 6c 42 6f 7820 44 69 73 6b 20 49 6d61 67 65 20 3e 3e 3e",
+      "offset": 0,
+      "extension": "vdi"
+  },
+  {
+      "hex signature": "3c 3f 78 6d 6c 20",
+      "offset": 0,
+      "extension": "xml"
+  },
+  {
+      "hex signature": "41 46 46",
+      "offset": 0,
+      "extension": "aff"
+  },
+  {
+      "hex signature": "41 47 44 33",
+      "offset": 0,
+      "extension": "fh8"
+  },
+  {
+      "hex signature": "41 54 26 54 46 4f 52 4d?? ?? ?? ?? 44 4a 56",
+      "offset": 0,
+      "extension": "djvudjv"
+  },
+  {
+      "hex signature": "42 41 43 4b 4d 49 4b 4544 49 53 4b",
+      "offset": 0,
+      "extension": "bac"
+  },
+  {
+      "hex signature": "42 4c 45 4e 44 45 52",
+      "offset": 0,
+      "extension": "blend"
+  },
+  {
+      "hex signature": "42 4d",
+      "offset": 0,
+      "extension": "bmpdib"
+  },
+  {
+      "hex signature": "42 50 47 fb",
+      "offset": 0,
+      "extension": "bpg"
+  },
+  {
+      "hex signature": "42 5a 68",
+      "offset": 0,
+      "extension": "bz2"
+  },
+  {
+      "hex signature": "43 57 53",
+      "offset": 0,
+      "extension": "swf"
+  },
+  {
+      "hex signature": "43 72 32 34",
+      "offset": 0,
+      "extension": "crx"
+  },
+  {
+      "hex signature": "44 41 41",
+      "offset": 0,
+      "extension": "daa"
+  },
+  {
+      "hex signature": "44 43 4d 01 50 41 33 3050 41 33 30",
+      "offset": 0
+  },
+  {
+      "hex signature": "44 52 41 43 4f",
+      "offset": 0,
+      "extension": "drc"
+  },
+  {
+      "hex signature": "45 4d 55 33",
+      "offset": 0,
+      "extension": "ez3iso"
+  },
+  {
+      "hex signature": "45 4d 58 32",
+      "offset": 0,
+      "extension": "ez2"
+  },
+  {
+      "hex signature": "45 52 02 00 00 00",
+      "offset": 0,
+      "extension": "toast"
+  },
+  {
+      "hex signature": "45 56 46",
+      "offset": 0,
+      "extension": "e01"
+  },
+  {
+      "hex signature": "45 56 46 32",
+      "offset": 0,
+      "extension": "ex01"
+  },
+  {
+      "hex signature": "46 4c 49 46",
+      "offset": 0,
+      "extension": "flif"
+  },
+  {
+      "hex signature": "46 4c 56",
+      "offset": 0,
+      "extension": "flv"
+  },
+  {
+      "hex signature": "46 4f 52 4d ?? ?? ?? ??38 53 56 58",
+      "offset": 0,
+      "extension": "8svx8svsvxsndiff"
+  },
+  {
+      "hex signature": "46 4f 52 4d ?? ?? ?? ??41 43 42 4d",
+      "offset": 0,
+      "extension": "acbmiff"
+  },
+  {
+      "hex signature": "46 4f 52 4d ?? ?? ?? ??41 49 46 46",
+      "offset": 0,
+      "extension": "aiffaifaifcsndiff"
+  },
+  {
+      "hex signature": "46 4f 52 4d ?? ?? ?? ??41 4e 42 4d",
+      "offset": 0,
+      "extension": "anbmiff"
+  },
+  {
+      "hex signature": "46 4f 52 4d ?? ?? ?? ??41 4e 49 4d",
+      "offset": 0,
+      "extension": "animiff"
+  },
+  {
+      "hex signature": "46 4f 52 4d ?? ?? ?? ??43 4d 55 53",
+      "offset": 0,
+      "extension": "cmusmusiff"
+  },
+  {
+      "hex signature": "46 4f 52 4d ?? ?? ?? ??46 41 4e 54",
+      "offset": 0,
+      "extension": "iff"
+  },
+  {
+      "hex signature": "46 4f 52 4d ?? ?? ?? ??46 41 58 58",
+      "offset": 0,
+      "extension": "faxxfaxiff"
+  },
+  {
+      "hex signature": "46 4f 52 4d ?? ?? ?? ??46 54 58 54",
+      "offset": 0,
+      "extension": "ftxtiff"
+  },
+  {
+      "hex signature": "46 4f 52 4d ?? ?? ?? ??49 4c 42 4d",
+      "offset": 0,
+      "extension": "ilbmlbmibmiff"
+  },
+  {
+      "hex signature": "46 4f 52 4d ?? ?? ?? ??53 4d 55 53",
+      "offset": 0,
+      "extension": "smussmumusiff"
+  },
+  {
+      "hex signature": "46 4f 52 4d ?? ?? ?? ??59 55 56 4e",
+      "offset": 0,
+      "extension": "yuvnyuviff"
+  },
+  {
+      "hex signature": "46 57 53",
+      "offset": 0,
+      "extension": "swf"
+  },
+  {
+      "hex signature": 47,
+      "offset": "00xbc0x178...(every 188th byte)",
+      "extension": "tstsvtsampgmpeg"
+  },
+  {
+      "hex signature": "47 49 46 38 37 6147 49 46 38 39 61",
+      "offset": 0,
+      "extension": "gif"
+  },
+  {
+      "hex signature": "47 52 49 42",
+      "offset": 0,
+      "extension": "gribgrib2"
+  },
+  {
+      "hex signature": "49 44 33",
+      "offset": 0,
+      "extension": "mp3"
+  },
+  {
+      "hex signature": "49 49 2a 00 (little-endian)",
+      "offset": 0,
+      "extension": "tiftiff"
+  },
+  {
+      "hex signature": "49 49 2a 00 10 00 00 0043 52",
+      "offset": 0,
+      "extension": "cr2"
+  },
+  {
+      "hex signature": "49 4e 44 58",
+      "offset": 0,
+      "extension": "idx"
+  },
+  {
+      "hex signature": "49 53 63 28",
+      "offset": 0,
+      "extension": "cab"
+  },
+  {
+      "hex signature": "49 54 53 46 03 00 00 0060 00 00 00",
+      "offset": 0,
+      "extension": "chm"
+  },
+  {
+      "hex signature": "49 73 5a 21",
+      "offset": 0,
+      "extension": "isz"
+  },
+  {
+      "hex signature": "4a 6f 79 21",
+      "offset": 0
+  },
+  {
+      "hex signature": "4b 43 4d 53",
+      "offset": 0,
+      "extension": "icm"
+  },
+  {
+      "hex signature": "4b 44 4d",
+      "offset": 0,
+      "extension": "vmdk"
+  },
+  {
+      "hex signature": "4b 57 41 4a",
+      "offset": 0,
+      "extension": "??_"
+  },
+  {
+      "hex signature": "4c 5a 49 50",
+      "offset": 0,
+      "extension": "lz"
+  },
+  {
+      "hex signature": "4c 66 4c 65",
+      "offset": 0,
+      "extension": "evt"
+  },
+  {
+      "hex signature": "4c 6f a7 94 93 40",
+      "offset": 0,
+      "extension": "xml"
+  },
+  {
+      "hex signature": "4d 3c b2 a1 (little-endian)",
+      "offset": 0,
+      "extension": "pcap"
+  },
+  {
+      "hex signature": "4d 49 4c 20",
+      "offset": 0,
+      "extension": "stg"
+  },
+  {
+      "hex signature": "4d 4c 56 49",
+      "offset": 0,
+      "extension": "mlv"
+  },
+  {
+      "hex signature": "4d 4d 00 2a (big-endian)",
+      "offset": 0,
+      "extension": "tiftiff"
+  },
+  {
+      "hex signature": "4d 53 43 46",
+      "offset": 0,
+      "extension": "cab"
+  },
+  {
+      "hex signature": "4d 53 57 49 4d 00 00 00d0 00 00 00 00",
+      "offset": 0,
+      "extension": "wimswmesd"
+  },
+  {
+      "hex signature": "4d 54 68 64",
+      "offset": 0,
+      "extension": "midmidi"
+  },
+  {
+      "hex signature": "4d 5a",
+      "offset": 0,
+      "extension": "exescrsysdllfoncpliecimerstspmz"
+  },
+  {
+      "hex signature": "4e 45 53 1a",
+      "offset": 0,
+      "extension": "nes"
+  },
+  {
+      "hex signature": "4e 55 52 55 49 4d 474e 55 52 55 50 41 4c",
+      "offset": 0,
+      "extension": "nuinup"
+  },
+  {
+      "hex signature": "4f 41 52 ??",
+      "offset": 0,
+      "extension": "oar"
+  },
+  {
+      "hex signature": "4f 52 43",
+      "offset": 0,
+      "extension": "orc"
+  },
+  {
+      "hex signature": "4f 54 54 4f",
+      "offset": 0,
+      "extension": "otf"
+  },
+  {
+      "hex signature": "4f 62 6a 01",
+      "offset": 0,
+      "extension": "avro"
+  },
+  {
+      "hex signature": "4f 67 67 53",
+      "offset": 0,
+      "extension": "oggogaogv"
+  },
+  {
+      "hex signature": "50 31 0a",
+      "offset": 0,
+      "extension": "pbm"
+  },
+  {
+      "hex signature": "50 32 0a",
+      "offset": 0,
+      "extension": "pgm"
+  },
+  {
+      "hex signature": "50 33 0a",
+      "offset": 0,
+      "extension": "ppm"
+  },
+  {
+      "hex signature": "50 41 52 31",
+      "offset": 0
+  },
+  {
+      "hex signature": "50 4b 03 0450 4b 05 06 (empty archive)50 4b 07 08 (spanned archive)",
+      "offset": 0,
+      "extension": "zipaarapkdocxepubipajarkmzmaffmsixodpodsodtpk3pk4pptxusdzvsdxxlsxxpi"
+  },
+  {
+      "hex signature": "50 4d 43 43",
+      "offset": 0,
+      "extension": "grp"
+  },
+  {
+      "hex signature": "50 4d 4f 43 43 4d 4f 43",
+      "offset": 0,
+      "extension": "dat"
+  },
+  {
+      "hex signature": "51 46 49",
+      "offset": 0,
+      "extension": "qcow"
+  },
+  {
+      "hex signature": "52 49 46 46 ?? ?? ?? ??41 43 4f 4e",
+      "offset": 0,
+      "extension": "ani"
+  },
+  {
+      "hex signature": "52 49 46 46 ?? ?? ?? ??41 56 49 20",
+      "offset": 0,
+      "extension": "avi"
+  },
+  {
+      "hex signature": "52 49 46 46 ?? ?? ?? ??43 44 44 41",
+      "offset": 0,
+      "extension": "cda"
+  },
+  {
+      "hex signature": "52 49 46 46 ?? ?? ?? ??51 4c 43 4d",
+      "offset": 0,
+      "extension": "qcp"
+  },
+  {
+      "hex signature": "52 49 46 46 ?? ?? ?? ??57 41 56 45",
+      "offset": 0,
+      "extension": "wav"
+  },
+  {
+      "hex signature": "52 49 46 46 ?? ?? ?? ??57 45 42 50",
+      "offset": 0,
+      "extension": "webp"
+  },
+  {
+      "hex signature": "52 49 46 58 ?? ?? ?? ??46 47 44 4d (big-endian)",
+      "offset": 0,
+      "extension": "dcr"
+  },
+  {
+      "hex signature": "52 49 46 58 ?? ?? ?? ??4d 56 39 33 (big-endian)",
+      "offset": 0,
+      "extension": "dirdxrdrx"
+  },
+  {
+      "hex signature": "52 4e 43 0152 4e 43 02",
+      "offset": 0
+  },
+  {
+      "hex signature": "52 53 56 4b 44 41 54 41",
+      "offset": 0,
+      "extension": "rs"
+  },
+  {
+      "hex signature": "52 61 72 21 1a 07 00",
+      "offset": 0,
+      "extension": "rar"
+  },
+  {
+      "hex signature": "52 61 72 21 1a 07 01 00",
+      "offset": 0,
+      "extension": "rar"
+  },
+  {
+      "hex signature": "52 65 63 65 69 76 65 643a",
+      "offset": 0,
+      "extension": "eml"
+  },
+  {
+      "hex signature": "53 44 50 58 (big-endian format)",
+      "offset": 0,
+      "extension": "dpx"
+  },
+  {
+      "hex signature": "53 45 51 36",
+      "offset": 0,
+      "extension": "rc"
+  },
+  {
+      "hex signature": "53 49 4d 50 4c 45 20 203d 20 20 20 20 20 20 2020 20 20 20 20 20 20 2020 20 20 20 20 54",
+      "offset": 0,
+      "extension": "fits"
+  },
+  {
+      "hex signature": "53 50 30 31",
+      "offset": 0,
+      "extension": "bin"
+  },
+  {
+      "hex signature": "53 51 4c 69 74 65 20 666f 72 6d 61 74 20 33 00",
+      "offset": 0,
+      "extension": "sqlitedbsqlitedb"
+  },
+  {
+      "hex signature": "53 5a 44 44",
+      "offset": 0,
+      "extension": "??_"
+  },
+  {
+      "hex signature": "53 5a 44 44 88 f0 27 33",
+      "offset": 0,
+      "extension": "??_"
+  },
+  {
+      "hex signature": "54 41 50 45",
+      "offset": 0
+  },
+  {
+      "hex signature": "54 44 45 46",
+      "offset": 0,
+      "extension": "tdef"
+  },
+  {
+      "hex signature": "54 44 46 24",
+      "offset": 0,
+      "extension": "tdf$"
+  },
+  {
+      "hex signature": "55 55 aa aa",
+      "offset": 0,
+      "extension": "pcv"
+  },
+  {
+      "hex signature": "58 46 49 52 ?? ?? ?? ??33 39 56 4d (little-endian)",
+      "offset": 0,
+      "extension": "dirdxrdrx"
+  },
+  {
+      "hex signature": "58 46 49 52 ?? ?? ?? ??4d 44 47 46 (little-endian)",
+      "offset": 0,
+      "extension": "dcr"
+  },
+  {
+      "hex signature": "58 50 44 53 (little-endian format)",
+      "offset": 0,
+      "extension": "dpx"
+  },
+  {
+      "hex signature": "5a 4d",
+      "offset": 0,
+      "extension": "exe"
+  },
+  {
+      "hex signature": "5a 4f 4f",
+      "offset": 0,
+      "extension": "zoo"
+  },
+  {
+      "hex signature": "5b 5a 6f 6e 65 54 72 616e 73 66 65 72 5d",
+      "offset": 0,
+      "extension": "identifier"
+  },
+  {
+      "hex signature": "60 ea",
+      "offset": 0,
+      "extension": "arj"
+  },
+  {
+      "hex signature": "62 6f 6f 6b 00 00 00 006d 61 72 6b 00 00 00 00",
+      "offset": 0,
+      "extension": "alias"
+  },
+  {
+      "hex signature": "62 76 78 32",
+      "offset": 0,
+      "extension": "lzfse"
+  },
+  {
+      "hex signature": "62 70 6c 69 73 74",
+      "offset": 0,
+      "extension": "plist"
+  },
+  {
+      "hex signature": "63 6f 6e 6e 65 63 74 6978",
+      "offset": 0,
+      "extension": "vhd"
+  },
+  {
+      "hex signature": "64 65 78 0a 30 33 35 00",
+      "offset": 0,
+      "extension": "dex"
+  },
+  {
+      "hex signature": "65 87 78 56",
+      "offset": 0,
+      "extension": "p25obt"
+  },
+  {
+      "hex signature": "66 4c 61 43",
+      "offset": 0,
+      "extension": "flac"
+  },
+  {
+      "hex signature": "67 69 6d 70 20 78 63 66",
+      "offset": 0,
+      "extension": "xcf"
+  },
+  {
+      "hex signature": "69 63 6e 73",
+      "offset": 0,
+      "extension": "icns"
+  },
+  {
+      "hex signature": "72 65 67 66",
+      "offset": 0,
+      "extension": "dat"
+  },
+  {
+      "hex signature": "74 6f 78 33",
+      "offset": 0,
+      "extension": "tox"
+  },
+  {
+      "hex signature": "76 2f 31 01",
+      "offset": 0,
+      "extension": "exr"
+  },
+  {
+      "hex signature": "76 68 64 78 66 69 6c 65",
+      "offset": 0,
+      "extension": "vhdx"
+  },
+  {
+      "hex signature": "77 4f 46 32",
+      "offset": 0,
+      "extension": "woff2"
+  },
+  {
+      "hex signature": "77 4f 46 46",
+      "offset": 0,
+      "extension": "woff"
+  },
+  {
+      "hex signature": "78 01",
+      "offset": 0,
+      "extension": "zlib"
+  },
+  {
+      "hex signature": "78 20",
+      "offset": 0,
+      "extension": "zlib"
+  },
+  {
+      "hex signature": "78 56 34",
+      "offset": 0,
+      "extension": "pbtpdtpeapebpetpgtpictpjtpktpmt"
+  },
+  {
+      "hex signature": "78 5e",
+      "offset": 0,
+      "extension": "zlib"
+  },
+  {
+      "hex signature": "78 61 72 21",
+      "offset": 0,
+      "extension": "xar"
+  },
+  {
+      "hex signature": "78 7d",
+      "offset": 0,
+      "extension": "zlib"
+  },
+  {
+      "hex signature": "78 9c",
+      "offset": 0,
+      "extension": "zlib"
+  },
+  {
+      "hex signature": "78 bb",
+      "offset": 0,
+      "extension": "zlib"
+  },
+  {
+      "hex signature": "78 da",
+      "offset": 0,
+      "extension": "zlib"
+  },
+  {
+      "hex signature": "78 f9",
+      "offset": 0,
+      "extension": "zlib"
+  },
+  {
+      "hex signature": "7b 5c 72 74 66 31",
+      "offset": 0,
+      "extension": "rtf"
+  },
+  {
+      "hex signature": "7f 45 4c 46",
+      "offset": 0
+  },
+  {
+      "hex signature": "80 2a 5f d7",
+      "offset": 0,
+      "extension": "cin"
+  },
+  {
+      "hex signature": "85 ?? ?? 03",
+      "offset": 0,
+      "extension": "pgp"
+  },
+  {
+      "hex signature": "89 50 4e 47 0d 0a 1a 0a",
+      "offset": 0,
+      "extension": "png"
+  },
+  {
+      "hex signature": "8b 45 52 02 00 00 00",
+      "offset": 0,
+      "extension": "toast"
+  },
+  {
+      "hex signature": "21 2d 31 53 4c 4f 42 1f",
+      "offset": 0,
+      "extension": "slob"
+  },
+  {
+      "hex signature": "71 6f 69 66",
+      "offset": 0
+  },
+  {
+      "hex signature": "a1 b2 3c 4d (big-endian)",
+      "offset": 0,
+      "extension": "pcap"
+  },
+  {
+      "hex signature": "a1 b2 c3 d4 (big-endian)",
+      "offset": 0,
+      "extension": "pcap"
+  },
+  {
+      "hex signature": "ac ed",
+      "offset": 0
+  },
+  {
+      "hex signature": "be ba fe ca",
+      "offset": 0,
+      "extension": "dba"
+  },
+  {
+      "hex signature": "c9",
+      "offset": 0,
+      "extension": "com"
+  },
+  {
+      "hex signature": "ca fe ba be",
+      "offset": 0,
+      "extension": "class"
+  },
+  {
+      "hex signature": "ce fa ed fe",
+      "offset": 0
+  },
+  {
+      "hex signature": "cf 84 01",
+      "offset": 0,
+      "extension": "lep"
+  },
+  {
+      "hex signature": "cf fa ed fe",
+      "offset": 0
+  },
+  {
+      "hex signature": "d0 cf 11 e0 a1 b1 1a e1",
+      "offset": 0,
+      "extension": "docxlspptmsimsg"
+  },
+  {
+      "hex signature": "d4 c3 b2 a1 (little-endian)",
+      "offset": 0,
+      "extension": "pcap"
+  },
+  {
+      "hex signature": "d7 cd c6 9a",
+      "offset": 0,
+      "extension": "wmf"
+  },
+  {
+      "hex signature": "dd 73 66 73",
+      "offset": 0
+  },
+  {
+      "hex signature": "ed ab ee db",
+      "offset": 0,
+      "extension": "rpm"
+  },
+  {
+      "hex signature": "ef bb bf",
+      "offset": 0,
+      "extension": "txtothers"
+  },
+  {
+      "hex signature": "ff d8 ff db",
+      "offset": 0,
+      "extension": "jpgjpeg"
+  },
+  {
+      "hex signature": "ff d8 ff e0 00 10 4a 4649 46 00 01",
+      "offset": 0,
+      "extension": "jpgjpeg"
+  },
+  {
+      "hex signature": "ff d8 ff ee",
+      "offset": 0,
+      "extension": "jpgjpeg"
+  },
+  {
+      "hex signature": "ff d8 ff e1 ?? ?? 45 7869 66 00 00",
+      "offset": 0,
+      "extension": "jpgjpeg"
+  },
+  {
+      "hex signature": "ff d8 ff e0",
+      "offset": 0,
+      "extension": "jpg"
+  },
+  {
+      "hex signature": "fd 37 7a 58 5a 00",
+      "offset": 0,
+      "extension": "xztar.xz"
+  },
+  {
+      "hex signature": "fe ed fa ce",
+      "offset": 0
+  },
+  {
+      "hex signature": "fe ed fa cf",
+      "offset": 90
+  },
+  {
+      "hex signature": "fe ed fe ed",
+      "offset": 0
+  },
+  {
+      "hex signature": "fe ff",
+      "offset": 0,
+      "extension": "txtothers"
+  },
+  {
+      "hex signature": "ff 0a",
+      "offset": 0,
+      "extension": "jxl"
+  },
+  {
+      "hex signature": "ff fbff f3ff f2",
+      "offset": 0,
+      "extension": "mp3"
+  },
+  {
+      "hex signature": "ff fe",
+      "offset": 0,
+      "extension": "txtothers"
+  },
+  {
+      "hex signature": "ff fe 00 00",
+      "offset": 0,
+      "extension": "txtothers"
+  },
+  {
+      "hex signature": "66 74 79 70 33 67",
+      "offset": 4,
+      "extension": "3gp3g2"
+  },
+  {
+      "hex signature": "66 74 79 70 69 73 6f 6d",
+      "offset": 4,
+      "extension": "mp4"
+  },
+  {
+      "hex signature": "00 00 00 00 00 00 00 0000 00 00 00 00 00 00 0000 00 00 00 00 00 00 00",
+      "offset": 11,
+      "extension": "pdb"
+  },
+  {
+      "hex signature": "44 49 43 4d",
+      "offset": 128,
+      "extension": "dcm"
+  },
+  {
+      "hex signature": "75 73 74 61 72 00 30 3075 73 74 61 72 20 20 00",
+      "offset": 257,
+      "extension": "tar"
+  },
+  {
+      "hex signature": "43 44 30 30 31",
+      "offset": "0x80010x88010x9001",
+      "extension": "iso"
+  },
+  {
+      "hex signature": "6b 6f 6c 79",
+      "offset": "end–512",
+      "extension": "dmg"
+  }
+]

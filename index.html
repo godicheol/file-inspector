@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>file-inspector</title>
+
+    <style>
+        *, *::before, *::after{
+            box-sizing: border-box;
+        }
+        body, html{
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            padding: 1rem;
+        }
+        table{
+            border-collapse: collapse;
+        }
+        table th,
+        table td{
+            border: 1px solid #7f7f7f;
+            padding: 4px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>file-inspector</h1>
+
+    <input id="file-1" type="file" multiple>
+
+    <div style="margin: 1rem 0; border-bottom: 1px solid;"></div>
+
+    <table style="font-size: 0.8rem;">
+        <tr>
+            <th>Name</th>
+        </tr>
+    </table>
+
+    <script src="dist/file-inspector.js"></script>
+    <script>
+        
+        function evt(e) {
+            fileInspector.getMimeType(e.target.files[0], function(err, res) {
+                if (err) {
+                    console.error(err);
+                    return false;
+                }
+                console.log(res)
+            });
+        }
+
+        document.getElementById("file-1").addEventListener("change", evt, false);
+    </script>
+</body>
+
+</html>
